@@ -2,7 +2,7 @@
 
 ### Project Description
 
-Developed and implemented a comprehensive **Bank Loan Report** to monitor and assess the bank's lending activities and performance. The report was designed to provide in-depth insights into key loan-related metrics, enabling data-driven decision-making and strategic planning.
+Developed and implemented a comprehensive **Bank Loan Report** to monitor and assess the bank's lending activities and performance by using **EXCEL**. The report was designed to provide in-depth insights into key loan-related metrics, enabling data-driven decision-making and strategic planning.
 
 - **Key Performance Indicators (KPIs) Analysis:** Calculated and tracked vital metrics, including Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio. Employed Month-to-Date (MTD) and Month-over-Month (MoM) analyses to identify trends and changes in loan metrics over time.
   
